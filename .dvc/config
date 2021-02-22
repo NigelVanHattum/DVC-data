@@ -1,0 +1,4 @@
+[core]
+    remote = nigel-gdrive
+['remote "nigel-gdrive"']
+    url = gdrive://1Wrta7VP-W4Vad8dhEJJxIiZyj-5oGwHg
